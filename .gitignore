@@ -1,0 +1,8 @@
+__pycache__
+.DS_Store
+.idea
+shell.jsp
+ascii*.jar
+Exploit.java
+Exploit.class
+payload*.jar
