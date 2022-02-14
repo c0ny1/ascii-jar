@@ -1,6 +1,6 @@
 ## 0x01 简介
 
-该项目是为了解决`RWCTF 4th Desperate Cat`，基于ascii-zip进行修改，生成字节均在ASCII范围的特殊jar。
+该项目是为了解决`RWCTF 4th Desperate Cat`，基于[ascii-zip](https://github.com/Arusekk/ascii-zip)进行修改，生成字节均在ASCII范围的特殊jar。
 
 #### 1.1 生成包含class的ascii jar
 
@@ -38,4 +38,4 @@
 
 ## 0x02 更多
 * [RWCTF 4th Desperate Cat Writeup](https://mp.weixin.qq.com/s/QQ2xR32Fxj_nnMsFCucbCg)
-* [RWCTF 4th Desperate Cat ASCII Jar Writeup]()
+* [RWCTF 4th Desperate Cat ASCII Jar Writeup](https://gv7.me/articles/2022/rwctf-4th-desperate-cat-ascii-jar-writeup/)
